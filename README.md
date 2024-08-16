@@ -1,5 +1,15 @@
-# 💫 About Me:
-- 👋 Hi, I’m @Sibikrish3000<br>- 👀 I’m interested in data science<br>- 🌱 I’m currently learning machine learning and artificial intelligence <br>- 💞️ I’m looking to collaborate on AI field<br>- 📫 How to reach me emailme<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I don't know python well
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sibikrish
+===========================================================================================================================================
+
+Data Science Student
+--------------------
+
+*   🌍  I'm based in India
+*   🖥️  See my portfolio at [MyPortfolio](http://sibikrish3000.github.io/portfolio/)
+*   ✉️  You can contact me at [yqxtfhxgu@mozmail.com](mailto:yqxtfhxgu@mozmail.com)
+*   🧠  I'm learning Artificial intelligence and Machine learning
+*   🤝  I'm open to collaborating on Ai projects
+*   ⚡  I'm Batman
 
 
 ## 🌐 Socials:
