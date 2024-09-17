@@ -5,7 +5,7 @@ Data Science Student
 --------------------
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [MyPortfolio](http://sibikrish3000.github.io/portfolio/)
+*   🖥️  See my portfolio at [MyPortfolio](http://sibikrish3000.github.io)
 *   ✉️  You can contact me at [yqxtfhxgu@mozmail.com](mailto:yqxtfhxgu@mozmail.com)
 *   🧠  I'm learning Artificial intelligence and Machine learning
 *   🤝  I'm open to collaborating on Ai projects
