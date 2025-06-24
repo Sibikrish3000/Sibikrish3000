@@ -9,7 +9,7 @@ Data Science Student
 *   ✉️  You can contact me at [sibikrish@sibikrish.slmail.me](mailto:sibikrish@sibikrish.slmail.me)
 *   🧠  I'm learning Artificial intelligence and Machine learning
 *   🤝  I'm open to collaborating on Ai projects
-*   ⚡  I'm Batman
+*   ⚡  I'm a gudguy
 
 
 ## 🌐 Socials:
