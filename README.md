@@ -6,7 +6,7 @@ Data Science Student
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [MyPortfolio](https://sibikrish.dev)
-*   ✉️  You can contact me at [sibikrish@sibikrish.slmail.me](mailto:hello@sibikrish.dev)
+*   ✉️  You can contact me at [hello@sibikrish.dev](mailto:hello@sibikrish.dev)
 *   🧠  I'm learning Artificial intelligence and Machine learning
 *   🤝  I'm open to collaborating on Ai projects
 *   ⚡  I'm a gudguy
