@@ -31,6 +31,7 @@ Data Science Student
 [![](https://visitcount.itsvg.in/api?id=sibikrish3000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=sibikrish&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/sibikrish)
 <!---
 Sibikrish3000/Sibikrish3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
