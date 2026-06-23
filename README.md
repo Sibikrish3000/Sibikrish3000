@@ -56,6 +56,10 @@ Data Science Student
 
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=sibikrish&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/sibikrish)
+
+![](https://hit.yhype.me/github/profile?account_id=173874096)
+![](https://komarev.com/ghpvc/?username=sibikrish3000&color=blueviolet)
+
 <!---
 Sibikrish3000/Sibikrish3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
